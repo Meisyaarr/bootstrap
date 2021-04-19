@@ -13,6 +13,9 @@
                         <li class="nav-item">
                             <a href="{{route('datadiri.index')}}" class="nav-link">Data Diri</a>
                         </li>
+                        <li class="nav-item">
+                            <a href="{{route('create.sms')}}" class="nav-link">SMS</a>
+                        </li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->

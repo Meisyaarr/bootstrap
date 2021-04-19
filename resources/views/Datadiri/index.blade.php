@@ -26,7 +26,7 @@
                                 <tbody>
                                 @foreach($datadiris as $datadiri)
                                 <tr>
-                                    <td>{{$datadiri->nama}}</a></td>
+                                    <td>{{$datadiri->nama}}</td>
                                     <td>{{$datadiri->alamat}}</td>
                                     <td>{{$datadiri->jk}}</td>
                                     <td>{{$datadiri->agama}}</td>
